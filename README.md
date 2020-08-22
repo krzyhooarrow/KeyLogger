@@ -4,4 +4,4 @@ To experience fully working keylogger you need to be able to access DOM/javascri
 
 In javascript file you need to change location of keylogger.php to your server. (variable url). 
 
-'Only for testing purpose'
+> Only for testing purpose
